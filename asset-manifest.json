@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-particles/static/css/main.cefea7b8.chunk.css",
+    "main.js": "/react-particles/static/js/main.59e32af6.chunk.js",
+    "main.js.map": "/react-particles/static/js/main.59e32af6.chunk.js.map",
+    "runtime-main.js": "/react-particles/static/js/runtime-main.8304acbf.js",
+    "runtime-main.js.map": "/react-particles/static/js/runtime-main.8304acbf.js.map",
+    "static/js/2.0d5d67da.chunk.js": "/react-particles/static/js/2.0d5d67da.chunk.js",
+    "static/js/2.0d5d67da.chunk.js.map": "/react-particles/static/js/2.0d5d67da.chunk.js.map",
+    "index.html": "/react-particles/index.html",
+    "static/css/main.cefea7b8.chunk.css.map": "/react-particles/static/css/main.cefea7b8.chunk.css.map",
+    "static/js/2.0d5d67da.chunk.js.LICENSE.txt": "/react-particles/static/js/2.0d5d67da.chunk.js.LICENSE.txt",
+    "static/media/angularLogo.a392aeb7.png": "/react-particles/static/media/angularLogo.a392aeb7.png",
+    "static/media/index.css": "/react-particles/static/media/cosmos.9073aee4.jpg",
+    "static/media/java&scripts.029db7d4.png": "/react-particles/static/media/java&scripts.029db7d4.png",
+    "static/media/react.7b55f218.png": "/react-particles/static/media/react.7b55f218.png",
+    "static/media/vue.2d41dc67.webp": "/react-particles/static/media/vue.2d41dc67.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8304acbf.js",
+    "static/js/2.0d5d67da.chunk.js",
+    "static/css/main.cefea7b8.chunk.css",
+    "static/js/main.59e32af6.chunk.js"
+  ]
+}
